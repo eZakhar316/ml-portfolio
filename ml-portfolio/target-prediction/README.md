@@ -15,17 +15,17 @@
 
 •	notebooks/EDA_and_Modeling.ipynb:
 
-    o	Анализ распределения признаков
+&emsp;o	Анализ распределения признаков
   
-    o	Обработка пропусков и выбросов 
+&emsp;o	Обработка пропусков и выбросов 
   
-    o	Визуализация ключевых метрик
+&emsp;o	Визуализация ключевых метрик
   
-    o	Тестирование моделей (Random Forest, Logistic Regression, MLP Classifier, XGBoost, LightGBM, CatBoost Classifier)
+&emsp;o	Тестирование моделей (Random Forest, Logistic Regression, MLP Classifier, XGBoost, LightGBM, CatBoost Classifier)
   
-    o	Подбор гиперпараметров
+&emsp;o	Подбор гиперпараметров
   
-    o	Оценка метрик (Accuracy, ROC AUC)
+&emsp;o	Оценка метрик (Accuracy, ROC AUC)
 
 ### 2. Пайплайны в PyCharm
 
