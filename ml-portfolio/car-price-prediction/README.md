@@ -39,29 +39,29 @@
 
 1.	EDA (Exploratory Data Analysis):
 
-&emsp;•	Анализ распределения признаков.
+&emsp;&emsp;•	Анализ распределения признаков.
 
-&emsp;•	Поиск выбросов и аномалий.
+&emsp;&emsp;•	Поиск выбросов и аномалий.
 
-&emsp;•	Корреляционный анализ.
+&emsp;&emsp;•	Корреляционный анализ.
 
-&emsp;•	Визуализация (боксплоты, гистограммы).
+&emsp;&emsp;•	Визуализация (боксплоты, гистограммы).
 
 2.	Предобработка данных:
 
-&emsp;•	Обработка пропусков.
+&emsp;&emsp;•	Обработка пропусков.
 
-&emsp;•	Кодирование категориальных переменных (One-Hot Encoding).
+&emsp;&emsp;•	Кодирование категориальных переменных (One-Hot Encoding).
 
-&emsp;•	Нормализация/стандартизация.
+&emsp;&emsp;•	Нормализация/стандартизация.
 
 3.	Modeling:
 
-&emsp;•	Разделение на train/test.
+&emsp;&emsp;•	Разделение на train/test.
 
-&emsp;•	Обучение моделей (Logistic Regression, Random Forest, MLPClassifier).
+&emsp;&emsp;•	Обучение моделей (Logistic Regression, Random Forest, MLPClassifier).
 
-&emsp;•	Оценка качества (accuracy score).
+&emsp;&emsp;•	Оценка качества (accuracy score).
 
 
 ----------------------------------------------------------------------------
