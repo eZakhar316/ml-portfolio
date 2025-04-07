@@ -14,18 +14,12 @@
 ### 1. EDA и Modeling в Jupyter Notebook
 
 •	notebooks/EDA_and_Modeling.ipynb:
-
-o	Анализ распределения признаков
-
-o	Обработка пропусков и выбросов
-
-o	Визуализация ключевых метрик
-
-o	Тестирование моделей (Random Forest, Logistic Regression, MLP Classifier, XGBoost, LightGBM, CatBoost Classifier)
-
-o	Подбор гиперпараметров
-
-o	Оценка метрик (Accuracy, ROC AUC)
+  o	Анализ распределения признаков
+  o	Обработка пропусков и выбросов 
+  o	Визуализация ключевых метрик
+  o	Тестирование моделей (Random Forest, Logistic Regression, MLP Classifier, XGBoost, LightGBM, CatBoost Classifier)
+  o	Подбор гиперпараметров
+  o	Оценка метрик (Accuracy, ROC AUC)
 
 ### 2. Пайплайны в PyCharm
 
